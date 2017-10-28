@@ -1,5 +1,4 @@
 # Name of the project
-============
 > Additional information or tag line
 
 A brief description of your project, what it is used for.
